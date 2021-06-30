@@ -7,7 +7,7 @@
   2, cd password_grabber
       change a directory to password_grabber directory
   3, python3 myzr.py 
-      Run our tool using python3 
+      Run our tool using python3  
       
 # Requirements
   1, pip3 install requests
